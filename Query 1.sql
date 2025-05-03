@@ -16,3 +16,4 @@ INSERT INTO testtable(firstname, lastname) VALUES
 ('Ned', 'Wilson'),
 ('Olga', 'Anderson');
 SELECT * FROM testtable;
+CREATE DATABASE myDB;
